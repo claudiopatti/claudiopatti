@@ -3,7 +3,6 @@
 
   # Welcome in my GitHub
 </div>
-
 <div align="center">
 
   # 🚀 Claudio Patti  
