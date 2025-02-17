@@ -1,7 +1,9 @@
 # 👋 Ciao, sono [Il Tuo Nome]!  
 ### 💻 Sviluppatore | 🚀 Appassionato di Tecnologia  
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" margin="20px">
+<div  margin="200px" >
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+  
+</div>
 
 
 <!--
