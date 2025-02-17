@@ -1,13 +1,5 @@
-<div align="center" font-size="34px">
-
-  ### Welcome to my GitHub! 
-
-</div>
-
-<div align="center" font-size="54px">
-
-  ### 🚀 Claudio Patti   
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=3000&pause=500&color=F79E2F&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B;Sono+Claudio;benvenuto+sul+mio+profilo+GitHub!" />
 </div>
 
 <div id="header" align="center">
