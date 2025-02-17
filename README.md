@@ -2,10 +2,12 @@
 <div align="center">
   
   # Welcome in my GitHub
+  
 </div>
 <div align="center">
   
   ## 🚀 Claudio Patti  
+  
 </div> 
   
 <div id="header" align="center" >
