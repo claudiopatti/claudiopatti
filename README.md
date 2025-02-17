@@ -1,5 +1,10 @@
-# 👋 Ciao, sono [Il Tuo Nome]!  
-### 💻 Sviluppatore | 🚀 Appassionato di Tecnologia  
+<div align="center">
+
+  ## 🚀 Claudio Patti  
+
+  ### Full Stack | UI/UX Designer 
+
+</div> 
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 </div>
