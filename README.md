@@ -34,7 +34,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=claudiopatti&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopatti&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css&hide_progress=true" alt="GitHub Langs" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopatti&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css&hide_progress=true&theme=radical" alt="GitHub Langs" height="170">
 
 </div>
 
