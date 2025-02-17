@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" font-size="54px">
 
   ### 🚀 Claudio Patti   
 
