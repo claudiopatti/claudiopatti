@@ -32,9 +32,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-  <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" title="Laravel" alt="Laravel" width="50" height="50"/>
-  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap"          
-  title="Bootstrap" height="50" /></a>
+  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" title="Laravel" 
+  height="50" /></a>  
   <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite.js" title="Vite" height="50" /></a>
    
 </div>
