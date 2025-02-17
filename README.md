@@ -1,19 +1,18 @@
 <div align="center" font-size="22px">
 
-  ### 👋 Welcome to My GitHub! 
+  ## Welcome in my GitHub! 
 
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="200"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZsYzFhdjFidHl5eGRxczB6Zmg0aGMzejNrcXNjejI3eWNwdXFwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200"/>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 </div>
 
 <div align="center">
 
-  ## 🚀 Giampiero Fedeli  
+  ## 🚀 Claudio Patti  
 
-  ### Full Stack & Power Platform DEV | UI/UX Designer | AI Enthusiast  
+  ### Full Stack | UI/UX Designer  
 
 </div>
 
