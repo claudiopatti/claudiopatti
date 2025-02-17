@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  ## 🚀 Claudio Patti  
+  ### 🚀 Claudio Patti  
 
   ### Full Stack | UI/UX Designer  
 
