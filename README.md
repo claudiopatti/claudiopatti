@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  ### Full Stack | UI/UX Designer  
+  ### Junior Full Stack
 
 </div>
 
