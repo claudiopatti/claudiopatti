@@ -6,11 +6,14 @@
 <div align="center">
   
   ## 🚀 Claudio Patti  
+</div> 
   
-  <div id="header" align="center" >
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-  </div>
-    
+<div id="header" align="center" >
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</div>
+  
+<div align="center">
+  
   ### Full Stack | UI/UX Designer 
 </div> 
 
