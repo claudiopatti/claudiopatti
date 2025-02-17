@@ -1,6 +1,6 @@
-<div align="center" font-size="22px">
+<div align="center" font-size="34px">
 
-  ### Welcome in my GitHub! 
+  ### Welcome to my GitHub! 
 
 </div>
 
