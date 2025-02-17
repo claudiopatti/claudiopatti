@@ -4,14 +4,12 @@
   # Welcome in my GitHub
 </div>
 <div align="center">
-
   # 🚀 Claudio Patti  
   <div id="header" align="center" >
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
   </div>
 
   ### Full Stack | UI/UX Designer 
-
 </div> 
 
 
